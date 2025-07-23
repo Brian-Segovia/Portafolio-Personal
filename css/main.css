@@ -1,0 +1,38 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box; 
+}
+
+body{
+    text-transform: uppercase;
+}
+
+h1{
+    text-align: center;
+    font-size: 1.8rem;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+p{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h2{
+    text-align: center;
+}
+
+section{
+    padding: 10px 20px;
+}
+footer{
+    background-color: black;
+}
+
+footer p{
+    text-align: center;
+    color: white;
+}
